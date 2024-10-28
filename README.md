@@ -1,2 +1,2 @@
 # Keyword-Categorization
-Predict one of specified categories to a keyword.
+Predict one of specified categories for a keyword.
